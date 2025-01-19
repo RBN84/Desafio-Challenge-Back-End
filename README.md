@@ -1,9 +1,10 @@
 # ROBSON NASCIMENTO
 
-## Sobre Mim
+
+## Sobre Mim![6596459](https://github.com/user-attachments/assets/c01205b3-2bc2-4578-98a8-2ef3749b9d2e)
 Olá! Eu sou Robson Nascimento, um profissional dedicado e apaixonado por Tecnologia da Informação (TI). Com formação na área e inspirado pelas possibilidades que a programação oferece, estou retornando ao mercado de trabalho com uma motivação renovada para contribuir com projetos inovadores e impactantes.
 
-## Formação Acadêmica![11260442](https://github.com/user-attachments/assets/4d67c8fc-bf28-4bca-ac6e-433ebc55314e)
+## Formação Acadêmica!
 
 - **Bacharelado em Sistemas de Infomação** - Universidade de Mogi das Cruzes (UMC).
 
