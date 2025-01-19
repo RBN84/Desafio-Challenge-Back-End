@@ -28,7 +28,7 @@ _Agradeço por visitar meu perfil e ficarei feliz em conectar e trocar ideias so
 
 # Challenge Back End
 
-## 🔥 Objetivo
+## 🎯 Objetivo
 
 Objetivo
 Um fórum é um espaço onde todos os participantes de uma plataforma podem colocar suas perguntas sobre determinados assuntos. Aqui na Alura, os alunos e alunas utilizam o fórum para tirar suas dúvidas sobre os cursos e projetos em que estão participando. Este lugar mágico está cheio de muita aprendizagem e colaboração entre alunos, professores e moderadores.
@@ -49,7 +49,7 @@ Este é o nosso desafio, chamado de FórumHub: nele, vamos replicar este process
 
 * Eliminar um tópico
 
-## Funcionalidades
+## ⚙️⚙️ Funcionalidades
 
 * Autenticação de Usuários: Login e cadastro de usuários com criptografia de senha e geração de tokens JWT.
 
